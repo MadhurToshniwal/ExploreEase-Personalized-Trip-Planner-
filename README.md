@@ -1,4 +1,4 @@
-#🧭 ExploreEase – Personalized Trip Planner 🗺️
+# 🧭 ExploreEase – Personalized Trip Planner 🗺️
 TELHackathon (Bolt 2.0) – February 2024
 🔗 Live Demo
 
