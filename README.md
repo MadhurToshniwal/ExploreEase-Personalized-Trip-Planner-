@@ -1,6 +1,6 @@
 # 🧭 ExploreEase – Personalized Trip Planner 🗺️
 TELHackathon (Bolt 2.0) – February 2024
-🔗 **Live Demo**: [Click here](https://madhurtoshniwal.github.io/Hackathon2/)
+🔗 **Live Demo**: [Click here](https://madhurtoshniwal.github.io/ExploreEase-Personalized-Trip-Planner-/)
 
 ExploreEase is a smart tourism website designed to provide personalized trip planning through an interactive and intuitive interface. Built during a 48-hour hackathon, the platform streamlines travel planning with real-time recommendations, interactive maps, and integrated booking options — tailored to users’ preferences.
 
