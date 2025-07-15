@@ -1,6 +1,6 @@
 # 🧭 ExploreEase – Personalized Trip Planner 🗺️
 TELHackathon (Bolt 2.0) – February 2024
-🔗 Live Demo
+🔗 **Live Demo**: [https://rb.gy/4espuz]([https://madhurtoshniwal.github.io/Hackathon2/](https://madhurtoshniwal.github.io/Hackathon2/))
 
 ExploreEase is a smart tourism website designed to provide personalized trip planning through an interactive and intuitive interface. Built during a 48-hour hackathon, the platform streamlines travel planning with real-time recommendations, interactive maps, and integrated booking options — tailored to users’ preferences.
 
@@ -17,7 +17,7 @@ Layer	Tools Used
 🌐 Frontend	HTML, CSS, JavaScript, React
 🤖 Chatbot	Chatbot Integration (custom or API)
 📍 Maps	(e.g., Google Maps API or Leaflet.js – based on what you used)
-🧳 Booking	(Integration APIs or mock flow – specify if any)
+🧳 Booking	(Integration APIs )
 
 🧠 Hackathon Context
 🏁 Event: TELHackathon – Bolt 2.0
@@ -26,7 +26,7 @@ Layer	Tools Used
 
 ⏱️ Duration: 48 hours
 
-👥 Team Size: (Add if you want)
+👥 Team Size: (4 members)
 
 🏆 Goal: Solve travel friction with tech-enabled personalized planning
 
